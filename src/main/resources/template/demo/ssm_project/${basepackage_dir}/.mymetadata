@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="codeFactory Maven Webapp"
+  id="myeclipse.1491631091165"
+  context-root="/codeFactory"
+  j2ee-spec="5.0"
+  archive="codeFactory Maven Webapp.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+

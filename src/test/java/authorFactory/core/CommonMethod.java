@@ -5,6 +5,8 @@ import java.io.IOException;
 import java.util.List;
 
 import authorFactory.contant.CustomConstant;
+import authorFactory.pool.CallBack;
+import authorFactory.pool.DataPool;
 
 public class CommonMethod {
 
@@ -81,7 +83,7 @@ public class CommonMethod {
 	 * @throws IOException
 	 * @注
 	 */
-	public static void writeInfo(String methodName) throws IOException {
+	public static void writeInfo(final String methodName) throws IOException {
 		
 		DataPool.getDatas(new CallBack() {
 			@Override

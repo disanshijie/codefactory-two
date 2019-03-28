@@ -1,0 +1,7 @@
+/*
+ * Powered By [rapid-framework]
+ * Web Site: http://blog.csdn.net/houfeng30920/article/details/52730893
+ * Csdn Code: 
+ * Since 2015 <#if now??>- ${now?string('yyyy')}</#if>
+ */
+

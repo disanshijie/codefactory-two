@@ -6,6 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import authorFactory.contant.CustomConstant;
+import authorFactory.pool.DataPool;
 import cn.org.rapid_framework.generator.Generator.GeneratorModel;
 import cn.org.rapid_framework.generator.GeneratorFacade;
 
